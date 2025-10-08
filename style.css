@@ -53,17 +53,19 @@ main {
 }
 
 main > article {
-    padding: 20px;
+    padding: 30px;
 }
 
 article > section {
+    text-align: justify;
     padding-bottom: 20px;
     line-height: 1.8em;
 }
 
 ul, ol {
-    padding-left: 30px;
+    display: block;
     padding-bottom: 10px;
+    margin:auto;
 }
 
 h1, h3, h4 {
