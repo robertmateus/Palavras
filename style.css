@@ -35,9 +35,9 @@ header h1 {
 }
 
 header p {
-    text-shadow: 2px 2px 2px black
-    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
     color: white;
+    font-weight: bold;
 }
 
 main {
